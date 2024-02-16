@@ -1,1 +1,29 @@
-p { background-color: red; }
+
+
+.first-box-container {
+    width: 200px;
+    height: 100px;
+    background-color: red;
+}
+  
+.second-box-container {
+    width: 200px;
+    height: 100px;
+    left: 250px;
+    top: 15px;
+    background-color: yellow;
+    position: absolute
+}
+
+.third-box-container {
+    width: 200px;
+    height: 100px;
+    left: 500px;
+    top: 15px;
+    background-color: green;
+    position: absolute
+}
+
+
+
+  
